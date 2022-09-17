@@ -307,7 +307,7 @@ const App = () => {
       <div className="form-container">
         <div className="first-row">
           <input
-            className="inptxt"
+            className="inptxt domtxt"
             type="text"
             value={domain}
             placeholder="domain"
@@ -317,7 +317,7 @@ const App = () => {
         </div>
 
         <input
-          className="inptxt"
+          className="inptxt boxborder"
           type="text"
           value={record}
           placeholder="whats ur ninja power"
