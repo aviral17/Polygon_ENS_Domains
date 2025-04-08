@@ -1,3 +1,5 @@
+// Updated it as per latest version
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/index.css';
