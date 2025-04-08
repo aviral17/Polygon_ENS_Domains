@@ -1,4 +1,5 @@
 // Update it as per latest Sepolia test network
+// Use RUST wherever possible
 
 // Make seperate file divide this Web3 code into multiple files and also update the test network 
 
