@@ -1,4 +1,5 @@
 // Updated it as per latest version
+// Shift to Remix as much as possible
 
 import React from 'react';
 import ReactDOM from 'react-dom';
