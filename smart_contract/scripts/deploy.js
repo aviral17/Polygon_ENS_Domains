@@ -1,3 +1,5 @@
+// update it as per latest changes
+
 const { hexStripZeros } = require("ethers/lib/utils");
 
 const main = async () => {
