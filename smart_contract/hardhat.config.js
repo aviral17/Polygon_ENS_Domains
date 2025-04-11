@@ -5,6 +5,8 @@ require("@nomiclabs/hardhat-web3");
 
 /** @type import('hardhat/config').HardhatUserConfig */
 
+// replace it with foundary
+
 task("accounts", "Prints accounts", async (_, { web3 }) => {
   console.log(await web3.eth.getAccounts());
 });
