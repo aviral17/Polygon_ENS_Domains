@@ -27,6 +27,7 @@ const main = async () => {
   console.log("Contract Balance: ", hre.ethers.utils.formatEther(balance));
 };
 
+// update it as required
 const runMain = async () => {
   try {
     await main();
