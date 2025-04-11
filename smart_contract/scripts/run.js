@@ -59,6 +59,8 @@ const main = async () => {
     hre.ethers.utils.formatEther(ownerBalance)
   );
 
+  // make it even better, experiment various possiblities
+
   // Trying to set a record that doesn't belong to me!
   //   txn = await domainContract
   //     .connect(randomPerson)
