@@ -20,6 +20,7 @@ const CONTRACT_ADDRESS = "0xD39Ba55c5C737542921794481B70D0A517c3e58e";
 const TWITTER_HANDLE = "xyz";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
+// update styles
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState("");
 
