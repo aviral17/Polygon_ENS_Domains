@@ -3,6 +3,7 @@
 
 // Make seperate file divide this Web3 code into multiple files and also update the test network 
 
+// update it as per latest version
 import React, { useEffect, useState } from "react";
 import "./styles/App.css";
 import twitterLogo from "./assets/twitter-logo.svg";
