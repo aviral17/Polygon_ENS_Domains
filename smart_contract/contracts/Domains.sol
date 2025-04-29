@@ -2,6 +2,8 @@
 
 /* Please use solidity extension version { 0.0135 } by Juan Blanco */
 
+// updated as per latest changes
+
 pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
