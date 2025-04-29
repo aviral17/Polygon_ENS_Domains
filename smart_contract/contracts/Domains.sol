@@ -114,6 +114,8 @@ contract Domains is ERC721URIStorage {
 
   // ---------------- Function Price() -------------------------------------------------------------
                                       // This function will give us the price of a domain based on length
+// updated as per latest changes
+
   function price(string calldata name) public pure returns (uint) {
     uint len = StringUtils.strlen(name);
     require(len > 0);
